@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    'name' :'BF Antanet Customer Cards',
+    'name' :'bf_antanet_customer_cards',
     'summary' : """Tarjetas de clientes""",
     'description' : """
         Tarjetas de créditos o débitos de clientes:

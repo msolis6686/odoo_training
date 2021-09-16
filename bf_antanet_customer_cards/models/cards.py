@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 from odoo import models, fields, api
 
-class customer_cards(models.Model):
-    _name = 'bf_antanet_customer_cards'
+class customercards(models.Model):
+    _name = 'cards'
     _description = 'Tarjetas de clientes'
