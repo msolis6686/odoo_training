@@ -1,11 +1,11 @@
 # -*- coding: utf-8 -*-
 {
-    'name' :'bf_antanet_customer_cards',
+    'name' :'Odoo Academy',
     'summary' : """Tarjetas de clientes""",
     'description' : """
         Tarjetas de créditos o débitos de clientes:
             - Crear tarjetas de clientes
-            - Impremir reportes de tarjetas 
+            - Imprimir reportes de tarjetas 
     """,
     'author' : 'BlackFishTeam',
     'website' : 'https://blackfishweb.com',
@@ -16,6 +16,6 @@
         
     ],
     'demo' : [
-        
+        'demo/academy_demo.xml'
     ],
 }
