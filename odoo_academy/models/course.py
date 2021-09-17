@@ -13,3 +13,4 @@ class Course(models.Model):
                                         ('advanced','Advanced')],
                              copy=False)
     active = fields.Boolean(string='Active', default=True)
+    active2 = fields.Boolean(string='Active', default=True)
